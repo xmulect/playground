@@ -1,5 +1,5 @@
 # Title
 
-This is a sample for test merge.
+150502	This is a sample for test merge.
 
-150502
+150504	I had pushed to xmulect by myself.
